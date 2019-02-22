@@ -71,7 +71,7 @@ void setup() {
 
 void loop() { }
 ```
-Quando caricheremo il codice visualizzeremo sulla seconda riga del display la scritta "LIGHT: "
+Quando caricheremo il codice visualizzeremo sulla seconda riga del display la scritta "LIGHT: " . Una volta appurato ciò possiamo passare al caricamento dello sketch con l'orologio.
 
 ## Riferimenti
 - Connessione display: http://www.dreamdealer.nl/tutorials/connecting_a_1602a_lcd_display_and_a_light_sensor_to_arduino_uno.html
